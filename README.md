@@ -2,7 +2,7 @@
 
 Android aplikace, která přečte ručně psaný lístek (vlevo cena, vedle ní čárky), spočítá cena × počet čárek a všechno sečte.
 
-**Stažení:** [Carky.apk](https://github.com/ArtFill6/carky-app/raw/main/Carky.apk) (verze 0.4, testovací)
+**Stažení:** [Carky.apk](https://github.com/ArtFill6/carky-app/raw/main/Carky.apk) (verze 0.5, testovací)
 
 ## Instalace
 1. Na telefonu klepněte na odkaz výše a stáhněte soubor `Carky.apk`.
